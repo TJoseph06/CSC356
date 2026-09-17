@@ -1,0 +1,11 @@
+/* this is the cascading style sheet for the mars homepage */
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1{
+    color:blueviolet;
+}
